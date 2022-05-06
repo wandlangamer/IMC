@@ -1,0 +1,34 @@
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.exe
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.deps.json
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.runtimeconfig.json
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.dll
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.pdb
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.csproj.AssemblyReference.cache
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.Form1.resources
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.csproj.GenerateResource.cache
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.AssemblyInfoInputs.cache
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.AssemblyInfo.cs
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.csproj.CoreCompileInputs.cache
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.dll
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\refint\IMCv2.dll
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.pdb
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.genruntimeconfig.cache
+C:\Users\Wand\Desktop\Tec Programacao\IMCv2\IMCv2\obj\Debug\net6.0-windows\ref\IMCv2.dll
+D:\Tec de Programacao III\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.exe
+D:\Tec de Programacao III\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.deps.json
+D:\Tec de Programacao III\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.runtimeconfig.json
+D:\Tec de Programacao III\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.dll
+D:\Tec de Programacao III\IMCv2\IMCv2\bin\Debug\net6.0-windows\IMCv2.pdb
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.csproj.AssemblyReference.cache
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.Form1.resources
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.csproj.GenerateResource.cache
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.AssemblyInfoInputs.cache
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.AssemblyInfo.cs
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.csproj.CoreCompileInputs.cache
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.dll
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\refint\IMCv2.dll
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.pdb
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\IMCv2.genruntimeconfig.cache
+D:\Tec de Programacao III\IMCv2\IMCv2\obj\Debug\net6.0-windows\ref\IMCv2.dll
